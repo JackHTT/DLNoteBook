@@ -1,0 +1,3 @@
+一、DCGAN
+GAN 的一些缺点，比如说训练不稳定，生成过程不可控，不具备可解释性等。
+这一篇就来看看GAN 的改进版之一，DCGAN（Deep Convolutional GAN）
